@@ -1,0 +1,11 @@
+com.baidu.beidou.syserror=1#系统错误
+
+com.baidu.beidou.group.name=3001#推广组名称非法
+com.baidu.beidou.group.keyword=3002#关键词非法
+com.baidu.beidou.group.state=3003#推广组状态非法
+com.baidu.beidou.group.targettype=3004#推广组定向方式非法
+com.baidu.beidou.group.notfound=3005#推广组不存在
+
+com.baidu.beidou.keyword.invalid=3100#关键词非法
+com.baidu.beidou.keyword.notexist=3101#所提供的id找不到对应的关键词
+com.baidu.beidou.keyword.num.exceed=3102#关键词数量超过单个组限制
